@@ -1,0 +1,4 @@
+line_dis_res
+.ropeproject/
+*.swp
+__pycache__/
